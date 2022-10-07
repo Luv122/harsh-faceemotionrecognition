@@ -45,12 +45,12 @@ Run project with
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Luv122/harsh-faceemotionrecognition.git
 ```
 
 Open Command Prompt in the project directory
 ```bash
-  cd CapstoneProject-FaceEmotionRecognition
+  cd harsh-faceemotionrecognition
 ```
 
 Install dependencies
